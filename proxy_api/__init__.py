@@ -1,1 +1,0 @@
-from .proxy_api import get_proxy_ip
